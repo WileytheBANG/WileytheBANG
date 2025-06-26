@@ -13,6 +13,14 @@ Hello! I'm a data enthusiast based in Sydney, New South Wales, driven by a passi
 
 ---
 
+## :newspaper: Project
+
+- [PowerBI analytics project]()
+- [Translation Extension](https://github.com/WileytheBANG/pokeking-translator)
+- [OCR Document project]()
+
+---
+
 ## 🤝 Let's Connect
 
 Feel free to reach out or explore collaborations.  
